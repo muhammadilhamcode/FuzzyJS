@@ -2,6 +2,7 @@ var fuzzyjs = {
    min_value : "null",
    max_value : "null",
    fuzzy_linguistic_var : false,
+   value_of_fuzzy : 0,
    // fuzzy linguistic variable terdeteksi
    fuzzy_linguistic_detected : function(){
      this.fuzzy_linguistic_var = true;
