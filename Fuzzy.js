@@ -4,5 +4,5 @@ var fuzzyjs = {
    fuzzy_linguistic_var : "null",
    fuzzy_linguistic_detected : function(){
      this.fuzzy_linguistic_var = true;
-}  
+   }  
 };
