@@ -36,3 +36,8 @@ var fuzzyjs = {
       // aktivkan fuzzy linguistic variable
    }
 };
+
+/* 
+catatan : 
+setelah collecting informasi, tentukan fuzzy linguistic variable "sangat panas" atau "sangat digin" itu berapa
+*/
