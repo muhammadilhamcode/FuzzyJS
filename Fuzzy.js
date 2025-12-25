@@ -17,6 +17,10 @@ var fuzzyjs = {
    set_value_of_fuzzy : function(fuzzy_v){
      this.value_of_fuzzy = fuzzy_v;
    },
+   // set status fuzzy
+   set_fuzzy_linguistic_var_status : function(fuzzy_status){
+     this.fuzzy_linguistic_var_status = fuzzy_status;
+   },
    // fuzzy linguistic variable terdeteksi
    fuzzy_linguistic_detected : function(){
      this.fuzzy_linguistic_var = true;
