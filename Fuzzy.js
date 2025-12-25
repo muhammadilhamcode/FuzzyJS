@@ -4,6 +4,13 @@ var fuzzyjs = {
    fuzzy_linguistic_var : false,
    fuzzy_linguistic_var_status : "null",
    value_of_fuzzy : 0,
+   
+   set_min : function(min_v){
+     this.min_value = min_v;
+   },
+   set_max : function(max_v){
+     this.max_value = max_v;
+   },
    // fuzzy linguistic variable terdeteksi
    fuzzy_linguistic_detected : function(){
      this.fuzzy_linguistic_var = true;
