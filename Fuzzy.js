@@ -21,7 +21,7 @@ var fuzzyjs = {
    set_fuzzy_linguistic_var_status : function(fuzzy_status){
      this.fuzzy_linguistic_var_status = fuzzy_status;
    },
-   // fuzzy linguistic variable terdeteksi
+   // aktifkan fuzzy linguistic variable
    fuzzy_linguistic_detected : function(){
      this.fuzzy_linguistic_var = true;
    },
