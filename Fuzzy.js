@@ -31,5 +31,7 @@ var fuzzyjs = {
    },
    // set keadaan fuzzy
    set_fuzzy : function(){
+      /* apabila fuzzy linguistic variable terdeteksi */
+      // aktivkan fuzzy linguistic variable
    }
 };
