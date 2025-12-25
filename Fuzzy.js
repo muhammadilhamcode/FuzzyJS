@@ -5,9 +5,11 @@ var fuzzyjs = {
    fuzzy_linguistic_var_status : "null",
    value_of_fuzzy : 0,
    
+   // set nilai minimum
    set_min : function(min_v){
      this.min_value = min_v;
    },
+   // set nilai maximum
    set_max : function(max_v){
      this.max_value = max_v;
    },
