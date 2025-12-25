@@ -29,5 +29,6 @@ var fuzzyjs = {
    fuzzy_linguistic_neuturalize : function(){
      this.fuzzy_linguistic_var = false;
    },
-   add_fuzzy : function(){}
+   fuzzy : function(){
+   }
 };
