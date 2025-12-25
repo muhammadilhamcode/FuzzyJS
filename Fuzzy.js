@@ -13,6 +13,10 @@ var fuzzyjs = {
    set_max : function(max_v){
      this.max_value = max_v;
    },
+   // set nilai fuzzy
+   set_value_of_fuzzy : function(fuzzy_v){
+     this.value_of_fuzzy = fuzzy_v;
+   },
    // fuzzy linguistic variable terdeteksi
    fuzzy_linguistic_detected : function(){
      this.fuzzy_linguistic_var = true;
