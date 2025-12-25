@@ -30,6 +30,6 @@ var fuzzyjs = {
      this.fuzzy_linguistic_var = false;
    },
    // set keadaan fuzzy
-     fuzzy : function(){
+   fuzzy : function(){
    }
 };
