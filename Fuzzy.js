@@ -28,5 +28,6 @@ var fuzzyjs = {
    // menetralkan fuzzy linguistic variable
    fuzzy_linguistic_neuturalize : function(){
      this.fuzzy_linguistic_var = false;
-   }
+   },
+   add_fuzzy : function(){}
 };
