@@ -32,6 +32,7 @@ var fuzzyjs = {
    // set keadaan fuzzy
    set_fuzzy : function(){
       /* apabila fuzzy linguistic variable terdeteksi */
+      /* set atau add (apabila di upgrade ke array) status fuzzy */
       // aktivkan fuzzy linguistic variable
    }
 };
