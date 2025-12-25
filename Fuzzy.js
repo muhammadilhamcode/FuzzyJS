@@ -22,7 +22,7 @@ var fuzzyjs = {
      this.fuzzy_linguistic_var_status = fuzzy_status;
    },
    // mengaktifkan fuzzy linguistic variable
-   fuzzy_linguistic_detected : function(){
+   fuzzy_linguistic_activate : function(){
      this.fuzzy_linguistic_var = true;
    },
    // menetralkan fuzzy linguistic variable
