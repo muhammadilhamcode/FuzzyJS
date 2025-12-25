@@ -29,6 +29,7 @@ var fuzzyjs = {
    fuzzy_linguistic_neuturalize : function(){
      this.fuzzy_linguistic_var = false;
    },
+   keadaan fuzzy
    fuzzy : function(){
    }
 };
