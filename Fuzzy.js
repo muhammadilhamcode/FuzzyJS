@@ -33,7 +33,6 @@ var fuzzyjs = {
    set_fuzzy : function(fuzzy_val){
       if (typeof fuzzy_val === 'string'){
      set_fuzzy_linguistic_var_status(fuzzy_val);
-        // aktivkan fuzzy linguistic variable
          this.fuzzy_linguistic_activate();
          return true;
       }
