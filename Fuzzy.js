@@ -37,6 +37,5 @@ var fuzzyjs = {
          return true;
       }
       return false;
-      
    }
 };
