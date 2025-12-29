@@ -31,6 +31,7 @@ var fuzzyjs = {
    },
    // set keadaan fuzzy
    set_fuzzy : function(fuzzy_val){
+      //bad smell is on
       if (typeof fuzzy_val === 'string'){
       set_fuzzy_linguistic_var_status(fuzzy_val);
          this.fuzzy_linguistic_activate();
